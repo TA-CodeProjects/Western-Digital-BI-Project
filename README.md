@@ -1,5 +1,12 @@
 ![logo](https://github.com/user-attachments/assets/60d92458-c79a-4968-bacc-ca2840627291)
 
+![image](https://github.com/user-attachments/assets/eb4d9a2b-278a-4da8-b593-b91d26b9cbf6)
+
+![image](https://github.com/user-attachments/assets/5e6c7500-cda1-4eda-bc34-a7bcc7a4347e)
+
+![image](https://github.com/user-attachments/assets/bd20082a-c42b-4cd2-a9c9-b1512cf8ad78)
+
+
 # Western Digital Sales Data Mart -  BI Project
 Final Project in BI Systems Development course at Experis Academy.
 
